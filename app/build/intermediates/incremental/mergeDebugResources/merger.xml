@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet config="main$Generated" generated="true"><source path="C:\Dev\Git\droidVNCServer\app\src\main\res"/><source path="C:\Dev\Git\droidVNCServer\app\build\generated\res\rs\debug"/><source path="C:\Dev\Git\droidVNCServer\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Dev\Git\droidVNCServer\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Dev\Git\droidVNCServer\app\src\main\res"><file name="animation" path="C:\Dev\Git\droidVNCServer\app\src\main\res\anim\animation.xml" qualifiers="" type="anim"/><file name="bg" path="C:\Dev\Git\droidVNCServer\app\src\main\res\drawable\bg.png" qualifiers="" type="drawable"/><file name="btnstart" path="C:\Dev\Git\droidVNCServer\app\src\main\res\drawable\btnstart.xml" qualifiers="" type="drawable"/><file name="btnstart_normal" path="C:\Dev\Git\droidVNCServer\app\src\main\res\drawable\btnstart_normal.png" qualifiers="" type="drawable"/><file name="btnstop" path="C:\Dev\Git\droidVNCServer\app\src\main\res\drawable\btnstop.xml" qualifiers="" type="drawable"/><file name="btnstop_normal" path="C:\Dev\Git\droidVNCServer\app\src\main\res\drawable\btnstop_normal.png" qualifiers="" type="drawable"/><file name="droidvnclogo" path="C:\Dev\Git\droidVNCServer\app\src\main\res\drawable\droidvnclogo.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Dev\Git\droidVNCServer\app\src\main\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="restart_normal" path="C:\Dev\Git\droidVNCServer\app\src\main\res\drawable\restart_normal.png" qualifiers="" type="drawable"/><file name="main" path="C:\Dev\Git\droidVNCServer\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="main" path="C:\Dev\Git\droidVNCServer\app\src\main\res\layout-land\main.xml" qualifiers="land" type="layout"/><file name="menu" path="C:\Dev\Git\droidVNCServer\app\src\main\res\menu\menu.xml" qualifiers="" type="menu"/><file name="self" path="C:\Dev\Git\droidVNCServer\app\src\main\res\raw\self.pem" qualifiers="" type="raw"/><file name="webclients" path="C:\Dev\Git\droidVNCServer\app\src\main\res\raw\webclients.zip" qualifiers="" type="raw"/><file path="C:\Dev\Git\droidVNCServer\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="com.admob.android.ads.AdView">
+		<attr format="color" name="backgroundColor"/>
+		<attr format="color" name="primaryTextColor"/>
+		<attr format="color" name="secondaryTextColor"/>
+		<attr format="string" name="keywords"/>
+		<attr format="integer" name="refreshInterval"/>
+	</declare-styleable></file><file path="C:\Dev\Git\droidVNCServer\app\src\main\res\values\strings.xml" qualifiers=""><string-array name="display_mode_strings">
+<item>Auto-detect</item>
+<item>Framebuffer</item>
+<item>Gralloc (Tegra2)</item>
+
+<item>SurfaceFlinger (2.3+)</item>
+</string-array><string-array name="display_mode_values">
+<item>auto</item> 
+<item>fb</item>  
+<item>gralloc</item>
+
+<item>gingerbread</item>
+</string-array><string-array name="startonboot_values">
+<item>On</item>
+<item>Off</item>
+</string-array><string-array name="sleep_strings">
+<item>On</item>
+<item>Off</item>
+</string-array><string-array name="scale_strings">
+<item>150</item>
+<item>100</item>
+<item>50</item>
+<item>30</item>
+<item>20</item>
+</string-array><string name="app_name">droid VNC server</string><string-array name="startonboot_strings">
+<item>True</item>
+<item>False</item>
+</string-array><string-array name="rotation_strings">
+<item>0</item>
+<item>90</item>
+<item>180</item>
+<item>270</item>
+</string-array><string name="device_info_fmt">
+droid VNC version: <ns1:g id="application_version">%s</ns1:g>\n
+Device model: <ns1:g id="device_model">%s</ns1:g>\n
+Firmware version: <ns1:g id="firmware_revision">%s</ns1:g>\n
+Kernel version: <ns1:g id="kernel_version">%s</ns1:g>\n
+Build number: <ns1:g id="build_number">%s</ns1:g>\n
+CPU ABI: <ns1:g id="cpu_abi">%s</ns1:g>\n
+</string><string-array name="rotation_values">
+<item>0</item>
+<item>90</item>
+<item>180</item>
+<item>270</item>
+</string-array><string-array name="scale_values">
+<item>150</item>
+<item>100</item> 
+<item>50</item>
+<item>30</item>
+<item>20</item>
+</string-array></file><file name="preferences" path="C:\Dev\Git\droidVNCServer\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/></source><source path="C:\Dev\Git\droidVNCServer\app\build\generated\res\rs\debug"/><source path="C:\Dev\Git\droidVNCServer\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Dev\Git\droidVNCServer\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="com.admob.android.ads.AdView"><attr format="color" name="backgroundColor"/><attr format="color" name="primaryTextColor"/><attr format="color" name="secondaryTextColor"/><attr format="string" name="keywords"/><attr format="integer" name="refreshInterval"/></declare-styleable></configuration></mergedItems></merger>

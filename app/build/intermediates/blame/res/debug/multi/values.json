@@ -1,0 +1,236 @@
+[
+    {
+        "outputFile": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 8,
+                    "endColumn": 15,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 0,
+                        "startOffset": 689,
+                        "endLine": 35,
+                        "endColumn": 15,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endLine": 15,
+                    "endColumn": 15,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 0,
+                        "startOffset": 897,
+                        "endLine": 42,
+                        "endColumn": 15,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endLine": 21,
+                    "endColumn": 15,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 281,
+                        "endLine": 14,
+                        "endColumn": 15,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endLine": 27,
+                    "endColumn": 15,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 156,
+                        "endLine": 8,
+                        "endColumn": 15,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endLine": 34,
+                    "endColumn": 15,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 548,
+                        "endLine": 28,
+                        "endColumn": 15,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endLine": 41,
+                    "endColumn": 15,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 407,
+                        "endLine": 21,
+                        "endColumn": 15,
+                        "endOffset": 546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endLine": 45,
+                    "endColumn": 15,
+                    "endOffset": 1088
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 0,
+                        "startOffset": 1071,
+                        "endLine": 46,
+                        "endColumn": 15,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1093,
+                    "endLine": 49,
+                    "endColumn": 15,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 0,
+                        "startOffset": 1160,
+                        "endLine": 50,
+                        "endColumn": 15,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endLine": 53,
+                    "endColumn": 15,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 0,
+                        "startOffset": 1259,
+                        "endLine": 54,
+                        "endColumn": 15,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endColumn": 53,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 105,
+                        "endColumn": 49,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endLine": 63,
+                    "endColumn": 9,
+                    "endOffset": 2013
+                },
+                "from": {
+                    "file": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 0,
+                        "startOffset": 1353,
+                        "endLine": 62,
+                        "endColumn": 9,
+                        "endOffset": 1752
+                    }
+                }
+            }
+        ]
+    }
+]

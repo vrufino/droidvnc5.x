@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\webclients.zip",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\raw\\webclients.zip"
+    },
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\self.pem",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\raw\\self.pem"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnstop_normal.png",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\drawable\\btnstop_normal.png"
+    },
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droidvnclogo.png",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\drawable\\droidvnclogo.png"
+    },
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnstart_normal.png",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\drawable\\btnstart_normal.png"
+    },
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnstop.xml",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\drawable\\btnstop.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restart_normal.png",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\drawable\\restart_normal.png"
+    },
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnstart.xml",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\drawable\\btnstart.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\drawable\\bg.png"
+    }
+]
