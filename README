@@ -1,0 +1,29 @@
+Aplicação droidVNCServer para Android 5.x
+– Tela rotacionada 180º;
+– Mouse habilitado sem a necessidade de clicar e arrastar um cursor;
+– Para funcionar, basta instalar o apk e rodar o comando: 
+/data/data/org.onaips.vnc/lib/libandroidvncserver.so -m fb
+– conexão feita através de IP e porta 5901
+
+Parâmetros:
+– "-z" : rotaciona 180º
+– "-r" / 0,90,180,270 : rotaciona de 90º em 90º
+– "-m" / adb, fb, gralloc, flinger : método usado para visualizar, no momento funciona apenas o fb (Framebuffer)
+– "-s" / 150, 100, 75, 50 altera a escala de visualização em %
+– "-h" : Exibe esses parametros e suas explicações
+
+Comandos
+– F4 rotaciona a tela em 90º (possibilidade de crash caso a função não consiga redimensionar os retângulos de maneira precisa)
+– F11 encerra a conexão
+– F12 encerra o aplicativo
+
+Problemas encontrados:
+– O app não funciona pelo Launcher, apenas pelo comando acima mencionado;
+– O evento de Listener para o teclado funciona, pode ser visualizado pelo cmd ou pelo terminal através do log gerado ao pressionar qualquer tecla, porém o comando não é realizado na aplicação.
+Exemplo do Log: 
+backspace pressed...
+BackspaceCalling suinput_press, code: 000e
+Calling suinput_release, code: 000e
+injectKey (14, 1) ret=0
+Got keysym: ff08 (down=0)
+Mesmo o log afirmando que a tecla foi pressionada, a ação backspace não é executada.
