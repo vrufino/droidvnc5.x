@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\vrufino\\Desktop\\droidvnc5.x\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "C:\\Users\\vrufino\\Desktop\\droidvnc5.x\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
         "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
         "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\layout-land\\main.xml"
     }

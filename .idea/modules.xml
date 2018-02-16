@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/droidVNCServer.iml" filepath="$PROJECT_DIR$/droidVNCServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidvnc5.x.iml" filepath="$PROJECT_DIR$/droidvnc5.x.iml" />
     </modules>
   </component>
 </project>

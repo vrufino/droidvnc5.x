@@ -1,135 +1,135 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:2:1-69:12
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:2:1-69:12
 	package
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:3:5-29
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:5:5-33
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:5:5-33
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:4:5-29
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:7:5-100
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:7:5-100
 	android:maxSdkVersion
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:7:72-98
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:7:72-98
 	android:targetSdkVersion
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:7:42-71
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:7:42-71
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:7:15-41
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:9:5-10:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:9:5-10:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:9:22-70
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:9:22-70
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:11:5-12:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:11:5-12:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:11:22-78
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.ACCESS_SUPERUSER
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:13:5-14:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:13:5-14:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:13:22-72
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:13:22-72
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:15:5-16:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:15:5-16:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:15:22-73
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:15:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:17:5-18:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:17:5-18:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:17:22-76
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:17:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:19:5-20:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:19:5-20:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:19:22-64
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:19:22-64
 uses-permission#android.permission.GET_TASKS
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:21:5-22:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:21:5-22:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:21:22-65
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:21:22-65
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:23:5-24:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:23:5-24:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:23:22-72
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:23:22-72
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:25:5-26:23
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:25:5-26:23
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:25:22-65
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:25:22-65
 application
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:28:5-68:19
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:28:5-68:19
 	android:label
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:32:9-41
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:32:9-41
 	android:allowBackup
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:30:9-35
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:30:9-35
 	android:icon
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:31:9-38
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:31:9-38
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:29:9-54
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:29:9-54
 activity#org.onaips.vnc.MainActivity
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:33:9-45:20
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:33:9-45:20
 	android:label
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:36:13-45
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:36:13-45
 	android:launchMode
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:37:13-48
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:37:13-48
 	android:icon
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:35:13-42
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:35:13-42
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:34:13-55
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:34:13-55
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+org.onaips.vnc.ACTIVITY_UPDATE
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:38:13-44:29
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:38:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:39:17-69
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:39:25-66
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:41:17-77
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:41:27-74
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:41:27-74
 action#org.onaips.vnc.ACTIVITY_UPDATE
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:43:17-73
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:43:17-73
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:43:25-70
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:43:25-70
 activity#org.onaips.vnc.preferences
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:46:9-49:20
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:46:9-49:20
 	android:label
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:48:13-40
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:48:13-40
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:47:13-54
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:47:13-54
 activity#com.google.ads.AdActivity
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:50:9-52:125
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:50:9-52:125
 	android:configChanges
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:52:13-122
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:52:13-122
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:51:13-53
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:51:13-53
 service#org.onaips.vnc.ServerManager
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:54:9-59:19
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:54:9-59:19
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:54:18-47
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:54:18-47
 intent-filter#org.onaips.vnc.ServerManager
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:55:13-58:29
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:55:13-58:29
 action#org.onaips.vnc.ServerManager
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:56:17-57:26
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:56:17-57:26
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:56:25-68
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:56:25-68
 receiver#org.onaips.vnc.StartServiceAtBootReceiver
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:61:9-67:20
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:61:9-67:20
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:61:19-61
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:61:19-61
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:62:13-66:29
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:62:13-66:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:63:17-79
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:63:17-79
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:63:25-76
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:63:25-76
 category#android.intent.category.HOME
-ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:65:17-73
+ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:65:17-73
 	android:name
-		ADDED from C:\Dev\Git\droidVNCServer\app\src\main\AndroidManifest.xml:65:27-70
+		ADDED from C:\Users\vrufino\Desktop\droidvnc5.x\app\src\main\AndroidManifest.xml:65:27-70

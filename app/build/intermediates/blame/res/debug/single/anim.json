@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation.xml",
         "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\anim\\animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrufino\\Desktop\\droidvnc5.x\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation.xml",
+        "source": "C:\\Users\\vrufino\\Desktop\\droidvnc5.x\\app\\src\\main\\res\\anim\\animation.xml"
     }
 ]

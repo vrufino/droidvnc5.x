@@ -1,14 +1,14 @@
 apply plugin: 'com.android.model.application'
 model {
     android {
-        compileSdkVersion 21
-        buildToolsVersion "27.0.1"
+        compileSdkVersion 22
+        buildToolsVersion "25.0.2"
 
 
         defaultConfig {
             applicationId "org.onaips.vnc"
             minSdkVersion.apiLevel 15
-            targetSdkVersion.apiLevel 19
+            targetSdkVersion.apiLevel 22
 
             buildConfigFields {
                 create() {
@@ -30,11 +30,19 @@ model {
                 proguardFiles.add(file("proguard-rules.pro"))
             }
         }
-        /*productFlavors {
-            create("flavor1") {
-                applicationId "org.onaips.vnc"
-            }
-        }*/
+
+//        ndk {
+//            platformVersion = 16
+//            moduleName = 'droidVNC'
+//            toolchain = 'clang'
+//            //stl = 'gnustl_static'
+//            stl = 'stlport_static'
+//            cppFlags.addAll(['-std=c++11', '-Wall', '-Wno-long-long'])
+//            ldLibs.addAll(['android', 'log', 'z'])
+//            // build a default combined apk including all ABIs.
+//            //abiFilters.addAll(['armeabi', 'armeabi-v7a'])//'x86', 'arm', 'armeabi' ])
+//            debuggable true
+//        }
 
         // Configures source set directory.
         sources {
@@ -46,9 +54,12 @@ model {
                 }
             }
         }
+
+
     }
 }
 
 dependencies {
     compile files('libs/GoogleAdMobAdsSdk-6.0.1.jar')
+    compile fileTree(include: ['*.jar'], dir: 'libs')
 }

@@ -119,8 +119,8 @@ public class ServerManager extends Service {
 			if (!preferences.getString("displaymode", "auto").equals("auto"))
 				display_method = "-m " + preferences.getString("displaymode", "auto");
 
-			String display_zte= preferences.getString("rotatezte", "true");
-			if (preferences.getBoolean("rotate_zte", true))
+			String display_zte= preferences.getString("rotatezte", "false");
+			if (preferences.getBoolean("rotate_zte", false))
 				display_zte = "-z "+ display_zte;
 			
 			//our exec file is disguised as a library so it will get packed to lib folder according to cpu_abi
@@ -138,8 +138,9 @@ public class ServerManager extends Service {
 			Runtime.getRuntime().exec("chmod 777 " + droidvncserver_exec);
  
 			String permission_string="chmod 777 " + droidvncserver_exec;
-			String server_string= droidvncserver_exec  + " " + password_check + " " + rotation+ " " + scaling_string + " " + port_string + " "
-			+ reverse_string + " " + display_method + " " + display_zte;
+			String server_string= droidvncserver_exec;
+			/*+ " " + password_check + " " + rotation+ " " + scaling_string + " " + port_string + " "
+			+ reverse_string + " " + display_method + " " + display_zte;*/
  
 			boolean root=preferences.getBoolean("asroot",true);
 			root &= MainActivity.hasRootPermission();
@@ -159,8 +160,10 @@ public class ServerManager extends Service {
 				Runtime.getRuntime().exec(server_string,null,new File(files_dir));
 			}
 			// dont show password on logcat
-			log("Starting " + droidvncserver_exec  + " " + rotation+ " " + scaling_string + " " + port_string + " "
-					+ reverse_string + " " + display_method + " " + display_zte);
+			log("Starting " + droidvncserver_exec);
+
+			/* + " " + rotation+ " " + scaling_string + " " + port_string + " "
+					+ reverse_string + " " + display_method + " " + display_zte);*/
 
 		} catch (IOException e) {
 			log("startServer():" + e.getMessage());

@@ -48,7 +48,7 @@ static rfbScreenInfoPtr vncscr;
 
 uint32_t idle = 0;
 uint32_t standby = 1;
-uint16_t rotation = 180;
+uint16_t rotation = 0;
 uint16_t scaling = 100;
 uint8_t display_rotate_180 = 0;
 

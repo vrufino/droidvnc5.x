@@ -4,6 +4,14 @@
         "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\raw\\webclients.zip"
     },
     {
+        "merged": "C:\\Users\\vrufino\\Desktop\\droidvnc5.x\\app\\build\\intermediates\\res\\merged\\debug\\raw\\self.pem",
+        "source": "C:\\Users\\vrufino\\Desktop\\droidvnc5.x\\app\\src\\main\\res\\raw\\self.pem"
+    },
+    {
+        "merged": "C:\\Users\\vrufino\\Desktop\\droidvnc5.x\\app\\build\\intermediates\\res\\merged\\debug\\raw\\webclients.zip",
+        "source": "C:\\Users\\vrufino\\Desktop\\droidvnc5.x\\app\\src\\main\\res\\raw\\webclients.zip"
+    },
+    {
         "merged": "C:\\Dev\\Git\\droidVNCServer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\self.pem",
         "source": "C:\\Dev\\Git\\droidVNCServer\\app\\src\\main\\res\\raw\\self.pem"
     }
